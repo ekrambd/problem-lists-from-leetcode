@@ -10,7 +10,7 @@ Array + HashMap
 8. Rotate Array — 189 -> Done
 
 String
-9. Valid Anagram — 242
+9. Valid Anagram — 242 -> Done
 10. Valid Palindrome — 125 -> Done
 11. First Unique Character in String — 387 -> Done
 12. Longest Common Prefix — 14
@@ -19,7 +19,7 @@ String
 HashMap / Frequency
 14. Group Anagrams — 49
 15. Top K Frequent Elements — 347
-16. Subarray Sum Equals K — 560
+16. Subarray Sum Equals K — 560 - > Done
 17. Intersection of Two Arrays — 349 -> Done
 18. Longest Consecutive Sequence — 128
 
