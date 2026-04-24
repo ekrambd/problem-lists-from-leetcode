@@ -13,7 +13,7 @@ String
 9. Valid Anagram — 242 -> Done
 10. Valid Palindrome — 125 -> Done
 11. First Unique Character in String — 387 -> Done
-12. Longest Common Prefix — 14
+12. Longest Common Prefix — 14 -> Done
 13. Roman to Integer — 13
 
 HashMap / Frequency
